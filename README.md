@@ -9,6 +9,8 @@
     - Software Engineering
     - ...
 
+📚Final Year Project
+**Title:** "Guardians of the Grandmaster: Revitalizing Chess Engagement Through Gamified Storytelling and Interactive Design" (How to become the member of the CHess Grandmaster?)
 
 
 <!---
