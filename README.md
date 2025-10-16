@@ -1,4 +1,4 @@
-👋 Hello, my name is Tomás Pettit & I’m a Fourth-Year (Final Year) Software Development Student at Galway City, ATU
+👋 Hello, my name is Tomás Pettit & I'm a Final Year Software Development Student at Galway City, ATU
 
 🔷 Skills I have interest I have experience in are
 - Java
@@ -11,7 +11,7 @@
 
 📚Final Year Project
 
-**Title:** "Guardians of the Grandmaster: Revitalizing Chess Engagement Through Gamified Storytelling and Interactive Design" (How to become the member of the CHess Grandmaster?)
+**Title:** Guardians of the Chess Grandmaster: (How to become the member of the CHess Grandmaster?)
 
 
 <!---
